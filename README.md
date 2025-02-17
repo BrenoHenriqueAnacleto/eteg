@@ -1,4 +1,4 @@
 # eteg
 
-Para rodar a solução é necessario rodar 
-- docker-compose up -d
+Para rodar a solução é necessario rodar
+> docker-compose up -d
